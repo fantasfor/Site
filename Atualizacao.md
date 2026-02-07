@@ -2,10 +2,10 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
-## [0.3.2.4] - 2026-02-04
+## [0.3.2.5] - 2026-02-07
 
-### Corrigido
-- 123123123123123123
+### Modificado
+- Todo o visual do menu foi alterado com uma nova reformulação no site.
 
 ## [0.3.2.3] - 2026-01-24
 
@@ -24,5 +24,6 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - `Modificado` - Mudanças em funcionalidades existentes
 - `Corrigido` - Correções de bugs
 - `Removido` - Funcionalidades removidas
+
 
 
