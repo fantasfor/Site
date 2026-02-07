@@ -17,27 +17,6 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
 ### Adicionado
 - Nova aba adicionada: **Crystal Builder**. Pode ser encontrada na seção Ferramentas.
-
-## [0.3.2.1] - 2025-12-29
-
-### Adicionado
-- Adicionado vídeos enfrentando os chefes na aba Chefes
-- Adicionado montaria e coura na aba animais
-
-### Modificado
-- Leve otimizada para dispositivo móvel
-
-## [0.3.2.0] - 2025-12-27
-
-### Adicionado
-- Nova aba Montaria
-
-## [0.3.1.0] - 2025-12-26
-
-### Adicionado
-- Nova aba Calculador
-- Adicionado e atualizado leiaute novo
-
 ---
 
 **Legenda:**
@@ -45,3 +24,4 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - `Modificado` - Mudanças em funcionalidades existentes
 - `Corrigido` - Correções de bugs
 - `Removido` - Funcionalidades removidas
+
