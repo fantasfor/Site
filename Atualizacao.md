@@ -2,6 +2,11 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
+## [0.3.3.5] - 2026-02-08
+
+### Modificado
+- Toda a aba Talentos foi atualizada e está 100% completa visualmente e em informações, com toda a tradução concluída e 100% compatível com o jogo.
+
 ## [0.3.2.5] - 2026-02-07
 
 ### Modificado
@@ -24,6 +29,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - `Modificado` - Mudanças em funcionalidades existentes
 - `Corrigido` - Correções de bugs
 - `Removido` - Funcionalidades removidas
+
 
 
 
