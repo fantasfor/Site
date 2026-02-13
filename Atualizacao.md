@@ -2,6 +2,11 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
+## [0.3.3.6] - 2026-02-12
+### Modificado
+- Novo menu com botões interativos.
+- Corrigido o problema em que o feed do Soulmask não estava funcionando.
+
 ## [0.3.3.5] - 2026-02-08
 
 ### Modificado
@@ -29,6 +34,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - `Modificado` - Mudanças em funcionalidades existentes
 - `Corrigido` - Correções de bugs
 - `Removido` - Funcionalidades removidas
+
 
 
 
