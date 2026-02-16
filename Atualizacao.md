@@ -2,6 +2,12 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
+## [0.3.4.6] - 2026-02-16
+### Modificado
+- Corrigida a barra de rolagem da seção de talentos.
+- Ajustado o design do painel de talentos.
+- A aba Conforto foi totalmente atualizada e agora está 100% completa, tanto visualmente quanto em conteúdo, com informações totalmente compatíveis com o jogo.
+
 ## [0.3.3.6] - 2026-02-12
 ### Modificado
 - Novo menu com botões interativos.
@@ -34,6 +40,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 - `Modificado` - Mudanças em funcionalidades existentes
 - `Corrigido` - Correções de bugs
 - `Removido` - Funcionalidades removidas
+
 
 
 
