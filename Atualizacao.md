@@ -2,6 +2,11 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
+## [0.4.4.7] - 2026-04-03
+### Modificado
+- Corrigido algumas traduções incorreta dos talentos.
+- Nova Aba Campo de Treinamento
+
 ## [0.3.4.6] - 2026-02-16
 ### Modificado
 - Corrigida a barra de rolagem da seção de talentos.
