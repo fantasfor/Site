@@ -7,7 +7,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 pri
 - Correção e otimização do sistema de Layout.
 - Nova aba de Sugestões e Reportes.
 - Otimização e ajuste de design.
-- Página de alimentos atualizada, agora com os novos itens.
+- Página de alimentos atualizada, agora com os novos itens da DLC.
 
 ## [0.4.4.7] - 2026-04-03
 ### Modificado
