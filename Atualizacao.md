@@ -5,7 +5,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 pri
 ## [0.4.5.0] - 2026-04-06
 ### Modificado
 - Correção e otimização do sistema de Layout.
-- Nova aba de Sugestões e Relatórios.
+- Nova aba de Sugestões e Reportes.
 - Otimização e ajuste de design.
 - Página de alimentos atualizada, agora com os novos itens.
 
