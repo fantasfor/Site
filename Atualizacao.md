@@ -2,10 +2,12 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
-## [0.6.4.8] - 2026-04-03
+## [0.4.5.0] - 2026-04-06
 ### Modificado
-- Corrigido algumas traduções incorreta dos talentos.
-- Nova Aba Campo de Treinamento
+- Correção e otimização do sistema de Lealty.
+- Nova aba de Sugestões e Relatórios.
+- Otimização e ajuste de design.
+- Página de alimentos atualizada, agora com os novos itens.
 
 ## [0.4.4.7] - 2026-04-03
 ### Modificado
