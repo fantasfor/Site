@@ -1,17 +1,22 @@
 # Changelog
 
-Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
+Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
+
+## [0.6.4.8] - 2026-04-03
+### Modificado
+- Corrigido algumas traduções incorreta dos talentos.
+- Nova Aba Campo de Treinamento
 
 ## [0.4.4.7] - 2026-04-03
 ### Modificado
 - Corrigido algumas traduções incorreta dos talentos.
-- Nova Aba Campo de Treinamento
+- Nova Página Campo de Treinamento
 
 ## [0.3.4.6] - 2026-02-16
 ### Modificado
 - Corrigida a barra de rolagem da seção de talentos.
 - Ajustado o design do painel de talentos.
-- A aba Conforto foi totalmente atualizada e agora está 100% completa, tanto visualmente quanto em conteúdo, com informações totalmente compatíveis com o jogo.
+- A Página Conforto foi totalmente atualizada e agora está 100% completa, tanto visualmente quanto em conteúdo, com informações totalmente compatíveis com o jogo.
 
 ## [0.3.3.6] - 2026-02-12
 ### Modificado
