@@ -2,6 +2,11 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
+## [0.4.5.1] - 2026-04-14
+### Modificado
+- Adicionados os novos talentos da DLC.
+- Algumas traduções podem estar incorretas.
+
 ## [0.4.5.0] - 2026-04-06
 ### Modificado
 - Correção e otimização do sistema de Layout.
