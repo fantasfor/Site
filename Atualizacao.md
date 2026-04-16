@@ -5,7 +5,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 pri
 ## [0.4.5.2] - 2026-04-16
 ### Modificado
 - Corrigido alguns Bugs.
-- Novo sistema de save e compartilhamento do campo de trinamento.
+- Novo sistema de save e compartilhamento do campo de treinamento.
 
 ## [0.4.5.1] - 2026-04-14
 ### Modificado
