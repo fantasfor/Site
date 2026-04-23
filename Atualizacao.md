@@ -2,6 +2,10 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
+## [0.4.5.3] - 2026-04-23
+### Modificado
+- Corrigidas algumas traduções incorretas dos talentos.
+
 ## [0.4.5.2] - 2026-04-16
 ### Modificado
 - Corrigido alguns Bugs.
