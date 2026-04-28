@@ -10,6 +10,7 @@ Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 pri
 - Adicionada a informação de quais armas seu lacaio pode utilizar com 125 de proficiência.
 - Otimizado o carregamento de imagens nas abas Talentos e Campo de Treinamento.
 - Corrigidos alguns erros de exclusividade.
+- Corrigidas algumas traduções incorretas dos talentos.
 
 ## [0.4.5.3] - 2026-04-23
 ### Modificado
