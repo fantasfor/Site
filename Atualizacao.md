@@ -2,6 +2,14 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
+## [0.4.5.5] - 2026-02-16
+### Modificado
+- Aba Campo de Treinamento otimizada.
+- Aba Campo de Treinamento: agora é possível adicionar lacaios travados (lacaios com poucos talentos definidos para progressão).
+- Aba Campo de Treinamento: no calculador de rota, foram adicionadas regras essenciais e a priorização de lacaios travados.
+- Corrigidas algumas traduções incorretas dos talentos.
+- Aba Couro: adicionados novos animais e locais de farm de couro na DLC.
+
 ## [0.4.5.4] - 2026-02-16
 ### Modificado
 - Aba Talentos: busca otimizada, agora funciona mesmo com erros de pontuação e também pesquisa nas descrições.
