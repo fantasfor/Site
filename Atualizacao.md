@@ -2,6 +2,11 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
+## [0.4.5.8] - 2026-05-19
+### Modificado
+- Melhorias na aba Campo de Treinamento.
+- Corrigidas algumas traduções incorretas.
+
 ## [0.4.5.7] - 2026-05-18
 ### Modificado
 - Corrigidas diversas traduções incorretas nos títulos.
