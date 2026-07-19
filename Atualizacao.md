@@ -2,6 +2,12 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
+## [0.4.6.0] - 2026-07-19
+### Modificado
+- Corrigidas algumas traduções incorretas dos talentos.
+- Melhorias na aba Campo de Treinamento.
+- Na aba Campo de Treinamento, agora é possível passar o mouse sobre os talentos para visualizar seus nomes e descrições.
+
 ## [0.4.5.9] - 2026-06-28
 ### Modificado
 - Corrigidas algumas traduções incorretas dos talentos.
