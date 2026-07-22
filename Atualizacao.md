@@ -2,6 +2,11 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo. 2 primeiro digito aba nova, 2 segundo mudanças
 
+## [0.4.6.1] - 2026-07-22
+### Modificado
+- Corrigido um problema em que a aba Talentos estava carregando incorretamente como a aba Campo de Treinamento.
+- Corrigido um problema em que a atualização da aba Campo de Treinamento havia sido aplicada incorretamente.
+
 ## [0.4.6.0] - 2026-07-19
 ### Modificado
 - Corrigidas algumas traduções incorretas dos talentos.
